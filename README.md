@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# and .Net
 
 [![Fruchtwzerg94s GitHub stats](https://github-readme-stats.vercel.app/api?username=maikhoff)](https://github.com/maikhoff)
-[![Fruchtwzerg94s GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs?username=maikhoff)](https://github.com/maikhoff)
+[![Fruchtwzerg94s GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs?username=maikhoff&show_icons=true&title_color=fff&icon_color=79ff97)](https://github.com/maikhoff)
 
 <!---
 maikhoff/maikhoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
